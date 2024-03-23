@@ -1,0 +1,63 @@
+
+h1 {
+    color:blue;
+}
+
+p {
+    color:blueviolet;
+}
+
+body{
+    background-color: #EABDB3;
+    display: block;
+    color: aquamarine;
+}
+
+.home {
+    height: 100vh; object-fit: cover;
+    outline: auto;
+    outline-color: black;
+}
+.top_bar{
+    background-color: blueviolet;
+}
+
+.btn-custom:hover{
+    color: aquamarine;
+    background-color: black;
+}
+.bg-light{
+    color: brown;
+    background-color: brown;
+}
+.bg-custom{
+    color: chartreuse;
+    background-color: #D1DFBB;
+}
+.about{
+    height: 100vh; object-fit: cover;
+    outline: auto;
+    outline-color: black;
+}
+.projects{
+    height: 100vh; object-fit: cover;
+    outline: auto;
+    outline-color: black;
+}
+.container-fluid{
+    outline: auto;
+    outline-color: black;
+}
+.container{
+    outline: auto;
+    outline-color: black;
+}
+.card-line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+   
+}
+
